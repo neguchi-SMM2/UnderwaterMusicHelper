@@ -7,6 +7,7 @@
 
 ※現時点でまだ未完成な機能があります。
 
-Ver.1.0.0 - 公開
+Ver.1.0.0 - 公開</br>
+Ver.1.1.0 - 新機能追加
 
 This was made in <a href= "https://turbowarp.org" target="_blank" >Turbowarp</a>.
