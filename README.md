@@ -10,6 +10,7 @@ Ver.1.1.0 - 新機能追加</br>
 Ver.1.1.1 - 微調整</br>
 Ver.1.2.0 - 新機能追加</br>
 Ver.1.2.1 - 新機能追加</br>
-Ver.1.2.2 - 新機能追加
+Ver.1.2.2 - 新機能追加</br>
+Ver.1.3.0 - 英語翻訳
 
 This was made in <a href= "https://turbowarp.org" target="_blank" >Turbowarp</a>.
