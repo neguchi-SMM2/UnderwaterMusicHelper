@@ -15,5 +15,6 @@ Ver.1.3.0 - 英語翻訳</br>
 Ver.1.3.1 - 微調整</br>
 Ver.1.3.2 - 英語翻訳ミス修正</br>
 Ver.1.3.3 - 羽なし計算の試験的実装 その他機能改善等</br>
+Ver.1.3.4 - 新機能追加</br>
 
 This was made in <a href= "https://turbowarp.org" target="_blank" >Turbowarp</a>.
