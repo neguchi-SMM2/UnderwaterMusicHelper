@@ -18,5 +18,6 @@ Ver.1.3.3 - 羽なし計算の試験的実装 その他機能改善等</br>
 Ver.1.3.4 - 新機能追加</br>
 Ver.1.4.0 - 新機能追加、羽なし計算の正式実装</br>
 Ver.1.5.0 - 全体公開、レールループ生成部分の微調整</br>
+Ver.1.6.0 - 新機能追加</br>
 
 This was made in <a href= "https://turbowarp.org" target="_blank" >Turbowarp</a>.
